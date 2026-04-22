@@ -1,0 +1,4 @@
+homepage: "https://www.webreload.de"
+versions:
+  - sha: 5a88d8cd402d58edd75723132954559a3e2eaceb
+    changeNotes: Initial release.
