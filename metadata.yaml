@@ -1,4 +1,5 @@
 homepage: "https://www.webreload.de"
+documentation: "https://github.com/mindbreaker/kickbite-tag#readme"
 versions:
-  - sha: 5a88d8cd402d58edd75723132954559a3e2eaceb
+  - sha: df542a2fc25331bd2118f6147203ecf25e72cc3e
     changeNotes: Initial release.
