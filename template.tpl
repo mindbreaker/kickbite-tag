@@ -20,7 +20,7 @@ ___INFO___
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAA0VXHyAAABy0lEQVQ4EbWRP2sUURTFz31v/uwSBVHxDxaOYTPssgiBFCndmMJC0SDGRvwCgrCiIMaY0i9g0m2wENGvYKGCjTYRbKIObmdMXEWbuGvezLzrPOTBvHULC33Nufe+c35zHwP8r/Pk4OWxv2GLUablQwsXX4qZS6Puhmd/AK4fWDrVDU+uIjq2d9g8qncAs7tv7UtQv9eafr3rzol2OiowPHMAiYr2nJl+sf9s7SGw4eaft1oeN5sBA7IM8crN02sPOPK3NT4y9KffN4NG46jIseJt9g5n4K4Xx1eQJF9tztlgYmxA1NMSRZg/c8ZRVJGa7wdSngZjHDmvUilsIM4G2NxRvIUtfIHSA/bSsNLxIWe01t8U5fPVD++f2S9bJVsYLd5HmJqq4jt85f/oBJAXdDFNWV+tJO+Wy15bO08oaExra30l+zdM2CCNQYJmuVYLbaisDoAxL9O4vuQJWky1fqUYd43ZI5pTIlgoB23tADC+foRBbUHFLgKPw2T9dsr8CEXvEW7uxI05G7TqAgT5zAghhFm+Ykx+rtqpzt8IIUJJ6KiJ5qQNG3X/Qra9wUH1HDgLNPy3xkDdbu9nfPw88qwuhZCZzPtm/s/OL0ETnHQ4wfJkAAAAAElFTkSuQmCC"
   },
   "description": "Unofficial Kickbite Tag. Loads the Kickbite tracking scripts (u.js, script.js) and initialises window.kbd with your Account ID (aid). In Conversion mode it also sets conv_id (order number) and conv_rev (order total, excl. VAT) before calling kb().",
-  "categories": ["ANALYTICS", "ATTRIBUTION", "ADVERTISING"],
+  "categories": ["ANALYTICS"],
   "containerContexts": [
     "WEB"
   ]
